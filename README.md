@@ -3,7 +3,9 @@ NOTE: Before you start, make sure that SElinux is disabled on all involved serve
 NOTE: It is recommended to install Prometheus and Grafana servers separate machine - GPU not required.
 
 Download from https://sq-ftp-public.s3.us-east-1.amazonaws.com/scailium_monitoring_20260215.tar.gz
+
 tar -xf scailium_monitoring_20260215.tar.gz
+
 File Structure:
 scailium_monitoring
 ├── dashboards
